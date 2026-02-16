@@ -1,7 +1,7 @@
 # 💻Projetos desenvolvidos no Senai nas aulas de PHP 
 
 
- <h3> Linguagem desenvolvida nesse repositório </h3> 
+ <h3> Linguagens desenvolvida nesse repositório </h3> 
 <img
     align="" 
     alt="PHP" 
