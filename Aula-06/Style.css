@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(234, 227, 227, 0.375);
+}
+table, tr, td, th {
+    border: solid 1px black;
+}
+.Consulta{
+    width: 500px;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 2px 2 px 2px #f1f1f1 ;
+    border-radius: 10px;
+    padding: 5px 0px 15px 15px;
+}
+
+.Cadastro{
+    width: 300px;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 2px 2 px 2px #f1f1f1 ;
+    border-radius: 10px;
+    padding: 5px 10px 15px 15px;
+}

@@ -1,0 +1,72 @@
+.Quadrado{
+    align-content: center;
+    background: gray;
+    height: 400px;
+    width: 400px;
+    margin-top: 80px;
+    text-align: center;
+    margin-left: 550px;
+    border-radius: 10px;
+    box-shadow: 7px 7px 10px black;
+}
+.Dentro{
+    margin-top: -325px;
+    margin-left: 625px;
+}
+.Quadrado02{
+    background: white;
+    width: 300px;
+    height: 50px;
+    margin-left: 600px;
+    margin-top: -100px;
+    border-radius: 10px;
+}
+h1{
+    margin-left: -40px;
+    margin-top: -10px;
+    color: white;
+}
+input{
+    border-radius: 10px;
+}
+.button{
+    background-color: white;
+}
+.button:hover{
+    background-color: red;
+    color: white;
+}
+label{
+    color: white;
+}
+h2{
+    margin-top: 135px;
+    color: white;
+}
+hr{
+    margin-left: -50px;
+    margin-top: -120px;
+    width: 350px;
+}
+.Traço{
+    margin-top: 78px;
+    margin-bottom: 23px;
+}
+a{
+   margin-top: -100spx;
+}  
+.Titulo02{
+    margin-left: 70px;
+}
+.Titulo01{
+    margin-left: -10px;
+}
+.Porcentagem{
+    margin-left: -35px;
+}
+.Valor{
+    margin-left: 30px;
+}
+.botao{
+    margin-top: -20px;
+}
